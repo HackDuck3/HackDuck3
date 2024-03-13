@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HackDuck3
+- 👋 Hi, I’m Atik
 - 👀 I’m interested to learn coding laguages
-- 🌱 I’m currently learning HTML, CSS, PHP, JAVASCRIPT, MySQL
+- 🌱 I’m currently learning HTML, CSS, PHP, JAVASCRIPT, MySQL, PYTHON, SWIFT, FLUTTER
 - 📫 mailto: atikmahbub.2003@hotmail.com
 
 <!---
